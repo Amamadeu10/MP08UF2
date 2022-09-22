@@ -6,4 +6,4 @@
 - BackUp extra del BackUp en local
 - Pressupost
 
-![Es una imatge]()
+![Es una imatge](Captura de pantalla 2022-09-22 155059.png)
