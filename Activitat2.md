@@ -11,3 +11,7 @@
 
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(1).png)
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(2).png)
+![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(3).png)
+![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(4).png)
+![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(5).png)
+![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(6).png)
