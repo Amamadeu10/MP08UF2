@@ -9,5 +9,7 @@
 -MariaDB base de dades
 -PHP versió 7.3 o 7.4
 
+![Es una imatge]()
+
 
 
