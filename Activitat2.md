@@ -10,3 +10,4 @@
 -PHP versió 7.3 o 7.4
 
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(1).png)
+![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(2).png)
