@@ -21,6 +21,13 @@ El segon pas és agafar i ficar les següents comandes per a la instal·lació d
 -	sudo apt-get install mariadb-server mariadb-client -y
 -	sudo mysql_secure_installation
 
+Ens demanarà que fiquem Si o No en les següents preguntes, configurarem de la següent manera:
+. Des habilitar usuaris anònims
+. Des habilitar accés remot com a root
+. Eliminar base de dades i accés a les mateixes
+. Actualitzar taula de privilegis
+
+
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(3).png)
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(4).png)
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(5).png)
