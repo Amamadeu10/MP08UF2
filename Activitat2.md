@@ -2,12 +2,12 @@
 
 ## GUIA D'INSTAL.LACIÓ
 
-### Requeriments:
+###  [![N|Solid] Requeriments:
 
 -Linux: Ubuntu 22.04LTS
 -Servidor Web Apache
 -MariaDB base de dades
-[![N|Solid](-PHP versió 7.3 o 7.4)
+-PHP versió 7.3 o 7.4
 # El primer pas és agafar i ficar les següents comandes per a la instal·lació de Apache2:
 	[![N|Solid] |sudo apt install apache2|
 	|------------------------|
