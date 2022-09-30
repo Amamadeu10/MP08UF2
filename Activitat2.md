@@ -7,7 +7,7 @@
 -Linux: Ubuntu 22.04LTS
 -Servidor Web Apache
 -MariaDB base de dades
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) -PHP versió 7.3 o 7.4
+[![N|Solid](-PHP versió 7.3 o 7.4)
 # El primer pas és agafar i ficar les següents comandes per a la instal·lació de Apache2:
 	[![N|Solid] |sudo apt install apache2|
 	|------------------------|
