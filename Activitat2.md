@@ -30,5 +30,16 @@ Ens demanarà que fiquem Si o No en les següents preguntes, configurarem de la 
 
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(3).png)
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(4).png)
+
+Reiniciem el servidor de MariaDB amb la següent comanda:
+-	sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart
+
+El següent pas serà instal·lar la base de dades de owncloud.
+El primer que tenim que fer es entrar en MariaDB i crear la base de dades, seguidament crearem un usuari amb nom ownclouduser i contrasenya Admin1234
+
+-	sudo mysql -u root -p
+-	CREATE DATABASE owncloud;
+-	CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';
+
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(5).png)
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(6).png)
