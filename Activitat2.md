@@ -58,16 +58,18 @@ file_uploads = On allow_url_fopen = On memory_limit = 256M upload_max_filesize =
 Canviant On memory_limit de 128 a 256M i upload_max_filesize de 2M a 100M ja funcionarà.
 	
 
-El següent pas serà l’instal.lació d’Owncloud, tindrem que descarregar els següents fitxers i descomprimir-los, després a més a més mourem els fitxers a /var/www/html/owncloud:
+# El següent pas serà l’instal.lació d’Owncloud, tindrem que descarregar els següents fitxers i descomprimir-los, després a més a més mourem els fitxers a /var/www/html/owncloud:
 -	cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip
 -	unzip owncloud-complete-latest.zip
 -	sudo mv owncloud /var/www/html/owncloud/
 
-Per últim canviarem propietaris i permisos dels directoris de Owncloud amb les següents comandes:
--	sudo chown -R www-data:www-data /var/www/html/owncloud/
--	sudo chmod -R 755 /var/www/html/owncloud/
+
 
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(5).png)
+
+# Per últim canviarem propietaris i permisos dels directoris de Owncloud amb les següents comandes:
+-	sudo chown -R www-data:www-data /var/www/html/owncloud/
+-	sudo chmod -R 755 /var/www/html/owncloud/
 
 
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(6).png)
