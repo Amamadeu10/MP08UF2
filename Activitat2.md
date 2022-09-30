@@ -28,6 +28,8 @@ Ens demanarà que fiquem Si o No en les següents preguntes, configurarem de la 
 . Actualitzar taula de privilegis
 
 
+
+
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(3).png)
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(4).png)
 
@@ -41,5 +43,31 @@ El primer que tenim que fer es entrar en MariaDB i crear la base de dades, segui
 -	CREATE DATABASE owncloud;
 -	CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';
 
+# Després donem accés a l’usuari a la base de dades que em creat, apliquem canvis i sortim
+-	FLUSH PRIVILEGEES;
+-	EXIT;
+
+El següent pas serà instal·lar PHP i els mòduls que corresponguin, actualitzarem els paquets e instal.larem PHP, em de tenir en compte que solament funcionara PHP amb la versió 7.3 o 7.4.
+
+-	sudo apt-get install software-properties-common -y
+-	sudo add-apt-repository ppa:ondrej/php
+-	sudo apt update
+-	sudo apt install php7.4 libapache2-mod-php7.4 php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-apcu php7.4-smbclient php7.4-ldap php7.4-redis php7.4-gd php7.4-xml php7.4-intl php7.4-json php7.4-imagick php7.4-mysql php7.4-cli php7.4-mcrypt php7.4-ldap php7.4-zip php7.4-curl -y
+Després de l’instal·lacio editarem el fitxer PHP.ini i canviarem els següents valors:
+file_uploads = On allow_url_fopen = On memory_limit = 256M upload_max_filesize = 100M display_errors = Off date.timezone = Europe/Madrid
+Canviant On memory_limit de 128 a 256M i upload_max_filesize de 2M a 100M ja funcionarà.
+	
+
+El següent pas serà l’instal.lació d’Owncloud, tindrem que descarregar els següents fitxers i descomprimir-los, després a més a més mourem els fitxers a /var/www/html/owncloud:
+-	cd /tmp && wget https://download.owncloud.com/server/stable/owncloud-complete-latest.zip
+-	unzip owncloud-complete-latest.zip
+-	sudo mv owncloud /var/www/html/owncloud/
+
+Per últim canviarem propietaris i permisos dels directoris de Owncloud amb les següents comandes:
+-	sudo chown -R www-data:www-data /var/www/html/owncloud/
+-	sudo chmod -R 755 /var/www/html/owncloud/
+
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(5).png)
+
+
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(6).png)
