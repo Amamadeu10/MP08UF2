@@ -76,3 +76,17 @@ Canviant On memory_limit de 128 a 256M i upload_max_filesize de 2M a 100M ja fun
 
 
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(6).png)
+
+# Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
+-Options +FollowSymlinks serveix per a seguir enllaços simbòlics d’un directori.
+-AllowOverride All controla quines directives es poden situa als fitxers de .htaccess
+-Require all grandted és una directiva de controls d’acces
+-Dav off això deshabilita el proveïdor d’arxius DAV
+-SetEnv HOME variable de l’entorn local
+-SetEnv  HTTP_HOME variable de l’entorn WEB
+-A2ensite proporciona una llista d’arxius que es poden habilitar 
+-A2dissite proporciona una llista d’arxius que es poden des-habilitar
+-127.0.0.1 owncloud.XYZ.com, el primer significa que el host esta allotjat a la IP per defecte de la maquina, XYZ son les nostres inicials.
+
+
+
