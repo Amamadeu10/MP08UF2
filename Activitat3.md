@@ -9,7 +9,7 @@ Per fer aquesta activitat comptem amb que **ja s'ha configurat el servei Ownclou
 apache2ctl -S
 ``` 
 
-![image]
+![image](https://github.com/Amamadeu10/MP08UF2/blob/main/Captura%20de%20pantalla%202022-10-13%20152532.png)
 
 **RESPOSTA**
 
