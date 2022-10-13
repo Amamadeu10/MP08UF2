@@ -20,6 +20,9 @@ apache2ctl -S
 
 **RESPOSTA**
 
+<img width="301" alt="versio" src="https://user-images.githubusercontent.com/100061627/195625112-c77434ea-d810-4461-ac51-4297777c1b13.png">
+
+
 **3.3.-** Al directori **Learn more about owncloud** hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
 
 - Quin són els tres tipus de protecció de dades que ofereix Owncloud?
