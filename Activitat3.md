@@ -52,12 +52,12 @@ apache2ctl -S
 - Afegeix el teu mail de l'Institut.
 - Canvia l'idioma a català.
 - Mostra la versió d'Owncloud instal·lada.
-## 
-## **RESPOSTA## **
-## 
-##<img width="381" alt="canvi fotos email" src="https://user-images.githubusercontent.com/100061627/195624932-4210c645-6a7d-434f-b78e-2e44df998658.png">
-## 
-##<img width="301" alt="versio" src="https://user-images.githubusercontent.com/100061627/195624994-496de9ab-31ba-4b9c-a997-0311ff6e10d1.p## ng## ">
+
+ **RESPOSTA## **
+ 
+<img width="381" alt="canvi fotos email" src="https://user-images.githubusercontent.com/100061627/195624932-4210c645-6a7d-434f-b78e-2e44df998658.png">
+ 
+<img width="301" alt="versio" src="https://user-images.githubusercontent.com/100061627/195624994-496de9ab-31ba-4b9c-a997-0311ff6e10d1.p## ng## ">
 
 
 
