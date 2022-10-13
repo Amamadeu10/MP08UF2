@@ -9,6 +9,8 @@ Per fer aquesta activitat comptem amb que **ja s'ha configurat el servei Ownclou
 apache2ctl -S
 ``` 
 
+![image]
+
 **RESPOSTA**
 
 **3.2.-** A Owncloud podem veure que hi ha una serie de carpetes per defecte, mostra la ruta real a les tres carpetes dins de la teva MV.
