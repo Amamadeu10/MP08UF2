@@ -67,7 +67,8 @@ apache2ctl -S
  
 <img width="381" alt="canvi fotos email" src="https://user-images.githubusercontent.com/100061627/195624932-4210c645-6a7d-434f-b78e-2e44df998658.png">
  
-<img width="301" alt="versio" src="https://user-images.githubusercontent.com/100061627/195624994-496de9ab-31ba-4b9c-a997-0311ff6e10d1.p## ng## ">
+<img width="301" alt="versio" src="https://user-images.githubusercontent.com/100061627/195641613-bbcf9123-8ff5-4437-bb70-63eb6e8b02fd.png">
+
 
 
 
