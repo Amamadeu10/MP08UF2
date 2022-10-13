@@ -26,7 +26,13 @@ apache2ctl -S
 **3.3.-** Al directori **Learn more about owncloud** hi ha informació en forma de fitxers pdf. Consulta'ls i respon aquestes preguntes:
 
 - Quin són els tres tipus de protecció de dades que ofereix Owncloud?
+- Encryption in Transit
+- 2A Encryption at Rest
+- 2B Encryption at Rest with Master Key in Hardware Security Module, HSM
+- End-to-End Encryption
 - Fes una petita descripció de cada un d'ells.
+- El encryption in transit es el xifratge de les dades quan estan actives,per exemple quan iniciem sessió se envia la contrasenya perquè validi un tercer.
+- 
 - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
 - Això passa a tots els països?
 - Quina és la llicència d'OWncloud Enterprise?
