@@ -36,13 +36,23 @@ apache2ctl -S
 - El HSM es un dipositiu de segurtat amb encriptació, utilitza diversos nivell de seguretat del FIPS 140-2
 - El End-to-End Encryption es un xifratge d'extrem a extrem, les dades es xifren al dispositiu remitent i només el destinatari pot desxifrar-les.
 - ## Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
-- ## Això passa a tots els països?
+- Degut a llei comunitaria de Europa, donat que els documents tenen que estar en base de dades física de l'emmpresa i no al nuvol.
+- ## Això passa a tots els països?.
+- No
 - ## Quina és la llicència d'OWncloud Enterprise?
+- És una llicència per empresa.
 - ## I la d'Owncloud Standard?
+- És una lliència per usuaris
 - ## Es poden veure videos en Streaming directament des de Owncloud?
+- En teoria i després del llegit si es pot, donat que pots connectar en diferents plataformes i modificar arxius i veure'ls a l'acte
 - ## Es poden connectar directoris de Google Drive a Owncloud?
+- Si
 - ## I Dropbox?
-- ## Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
+- Si.
+- <img width="520" alt="Captura de pantalla 2022-10-13 173104" src="https://user-images.githubusercontent.com/100061627/195640697-1b62cbc0-8795-4a9e-99af-53bb3737e705.png">
+
+- ## Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
+- Si, és diu ClamAV 
 
 **RESPOSTA**
 
