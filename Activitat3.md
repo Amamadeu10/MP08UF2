@@ -34,29 +34,30 @@ apache2ctl -S
 - El encryption in transit es el xifratge de les dades quan estan actives,per exemple quan iniciem sessió se envia la contrasenya perquè validi un tercer.
 - El Encription at Rest és un xifratge en repòs que s'utilitza per protegir copies de seguretat en discos, tant normals com de estat solid, utilitza el AES 256.
 - El HSM es un dipositiu de segurtat amb encriptació, utilitza diversos nivell de seguretat del FIPS 140-2
-- Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
-- Això passa a tots els països?
-- Quina és la llicència d'OWncloud Enterprise?
-- I la d'Owncloud Standard?
-- Es poden veure videos en Streaming directament des de Owncloud?
-- Es poden connectar directoris de Google Drive a Owncloud?
-- I Dropbox?
-- Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
+- El End-to-End Encryption es un xifratge d'extrem a extrem, les dades es xifren al dispositiu remitent i només el destinatari pot desxifrar-les.
+- ## Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
+- ## Això passa a tots els països?
+- ## Quina és la llicència d'OWncloud Enterprise?
+- ## I la d'Owncloud Standard?
+- ## Es poden veure videos en Streaming directament des de Owncloud?
+- ## Es poden connectar directoris de Google Drive a Owncloud?
+- ## I Dropbox?
+- ## Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
 **RESPOSTA**
 
 **3.4.-** Mostra els següents canvis de paràmetres d'usuari:
 
-- Posa't una imatge d'usuari.
+- Posa't una imatge d'usuari.## 
 - Afegeix el teu mail de l'Institut.
 - Canvia l'idioma a català.
 - Mostra la versió d'Owncloud instal·lada.
-
-**RESPOSTA**
-
-<img width="381" alt="canvi fotos email" src="https://user-images.githubusercontent.com/100061627/195624932-4210c645-6a7d-434f-b78e-2e44df998658.png">
-
-<img width="301" alt="versio" src="https://user-images.githubusercontent.com/100061627/195624994-496de9ab-31ba-4b9c-a997-0311ff6e10d1.png">
+## 
+## **RESPOSTA## **
+## 
+##<img width="381" alt="canvi fotos email" src="https://user-images.githubusercontent.com/100061627/195624932-4210c645-6a7d-434f-b78e-2e44df998658.png">
+## 
+##<img width="301" alt="versio" src="https://user-images.githubusercontent.com/100061627/195624994-496de9ab-31ba-4b9c-a997-0311ff6e10d1.p## ng## ">
 
 
 
