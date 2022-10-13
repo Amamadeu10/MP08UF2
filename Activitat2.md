@@ -77,6 +77,17 @@ Canviant On memory_limit de 128 a 256M i upload_max_filesize de 2M a 100M ja fun
 
 ![Es una imatge](Documentar%20owncloud%20ubuntu%20UF02/1%20(6).png)
 
+<img width="312" alt="instal lació ownclud activitat 2" src="https://user-images.githubusercontent.com/100061627/195670066-06c17313-d96a-4c46-9cac-3fb1f17fe232.png">
+
+<img width="376" alt="activitat dos comandes" src="https://user-images.githubusercontent.com/100061627/195670097-a384bcd3-c96a-4a3d-aff0-2df1bd28937f.png">
+
+<img width="413" alt="restart apache activitat 2" src="https://user-images.githubusercontent.com/100061627/195670125-9340bd1a-3eb2-471a-a69d-00885ccf701b.png">
+
+<img width="546" alt="cambiar no domini" src="https://user-images.githubusercontent.com/100061627/195670150-f286aff0-0fea-4041-958b-884a00ed80ec.png">
+
+<img width="644" alt="activitat dos modificar ip" src="https://user-images.githubusercontent.com/100061627/195670184-5a2257f7-bd36-4ac1-b745-b4d84925a34c.png">
+
+
 # Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
 -     L'encarregat d'administrar el host
 -     Serveix per configurar el funcionament d'apache
