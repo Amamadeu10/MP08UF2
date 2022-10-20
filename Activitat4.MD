@@ -92,6 +92,9 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 **4.12.-** Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
 
 **RESPOSTA**
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/100061627/196976741-c59f31e7-de6e-4bd6-b6df-aeab7dcf6d51.png">
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/100061627/196977036-0a87ea62-4ae8-4b82-944b-671f25dd0416.png">
+
 
 **4.13.-** Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
 
