@@ -29,6 +29,8 @@ Per a que pugui accedir necessitarà:
 **4.3.-** Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
 
 **RESPOSTA**
+<img width="783" alt="image" src="https://user-images.githubusercontent.com/100061627/196967749-6d968133-8187-4109-8e55-1376c90718f7.png">
+
 
 **4.4.-** Podem crear fitxers d'una mida determinada a Linux amb la comanda:
 
@@ -42,17 +44,24 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **RESPOSTA**
 
+<img width="371" alt="image" src="https://user-images.githubusercontent.com/100061627/196968649-fd9bdd70-4489-449d-91b3-365bcc6be937.png">
+
 **4.5.-** Mostra el missatge d'error per haver superat la quota d'usuari.
 
 **RESPOSTA**
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/100061627/196969175-0325f698-218f-4675-83ed-9fc6c90ec3a0.png">
 
 **4.6.-** Busca al teu perfil quin percentatge de quota estas utilitzant.
 
 **RESPOSTA**
+<img width="182" alt="image" src="https://user-images.githubusercontent.com/100061627/196969521-449db444-ec7b-47b0-9a23-f9da91147cac.png">
+
 
 **4.7.-** Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
 **RESPOSTA**
+<img width="792" alt="image" src="https://user-images.githubusercontent.com/100061627/196970896-0e263d04-2a2f-4f7c-b29f-7dea158e2528.png">
+
 
 **4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
 
