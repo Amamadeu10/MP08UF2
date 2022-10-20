@@ -106,6 +106,11 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 És tracta d’un calendari per poder apuntar tasques o semblants, dies importants o notificacions. 
 
 **RESPOSTA SEGONA APP**
+<img width="501" alt="image" src="https://user-images.githubusercontent.com/100061627/196981616-c0c8877d-7400-4a7d-8f1d-733e8d08f494.png">
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/100061627/196981726-9fc71a9e-3328-46a9-a70b-8b001566ee1d.png">
+
+
+És tracta d’un gestor de fitxers multimèdia, en ell podem organitzar, crear carpetes, pujar fotos i vídeos, també té suport per al mòbil.
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
 
