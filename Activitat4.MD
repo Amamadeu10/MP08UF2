@@ -17,10 +17,14 @@ Per a que pugui accedir necessitarà:
 **4.1.-** Crea un usuari admin que es digui adminXYZ, on XYZ són les inicials del teu nom:
 
 **RESPOSTA**
+<img width="225" alt="image" src="https://user-images.githubusercontent.com/100061627/196966854-41611a21-3707-4c0e-bace-8527e3f2a421.png">
+
 
 **4.2.-** Inicia sessió com a l'usuari adminXYZ.
 
 **RESPOSTA**
+<img width="266" alt="image" src="https://user-images.githubusercontent.com/100061627/196966987-e268e97d-119a-4f58-a8fc-196ab785da4c.png">
+
 
 **4.3.-** Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
 
