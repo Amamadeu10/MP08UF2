@@ -80,10 +80,14 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 **4.10.-** Esborra la carpeta Learn more about owncloud.
 
 **RESPOSTA**
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/100061627/196975893-64493d38-ab98-4286-98c4-930833d7a9f9.png">
+
 
 **4.11.-** Recupera la carpeta Learn more about owncloud.
 
 **RESPOSTA**
+<img width="925" alt="image" src="https://user-images.githubusercontent.com/100061627/196976089-397b4932-9ca7-4a3e-bd2e-1284885f2781.png">
+
 
 **4.12.-** Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
 
