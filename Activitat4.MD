@@ -101,6 +101,9 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 ![image](https://user-images.githubusercontent.com/110727546/196159706-705ff624-c409-4632-acb4-f43ffcc486d4.png)
 
 **RESPOSTA PRIMERA APP**
+<img width="568" alt="image" src="https://user-images.githubusercontent.com/100061627/196978734-69865f19-2acd-48c0-8845-c6b442e37e78.png">
+<img width="677" alt="image" src="https://user-images.githubusercontent.com/100061627/196979164-10a84345-56cc-4b63-a650-417ce12bf14c.png">
+És tracta d’un calendari per poder apuntar tasques o semblants, dies importants o notificacions. 
 
 **RESPOSTA SEGONA APP**
 
