@@ -60,6 +60,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 **4.7.-** Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
 **RESPOSTA**
+![image](https://user-images.githubusercontent.com/100061627/198642354-8ebd0359-3986-4a28-8605-13913c9c3697.png)
+
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/100061627/196970896-0e263d04-2a2f-4f7c-b29f-7dea158e2528.png">
 
 
